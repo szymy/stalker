@@ -1,8 +1,8 @@
-# G5: stalker
+# G5: Stalker
 Agregator tresci z portali spolecznosciowych
 
 # Technologia
-- PHP (laravel framework)
+- PHP
 - jQuery
 - HTML5 + CSS3
 - PostgreSQL
